@@ -1,0 +1,11 @@
+com\example\todolistapp1\entity\ToDoListItem.class
+com\example\todolistapp1\controller\ToDoListController.class
+com\example\todolistapp1\result\DataResult.class
+com\example\todolistapp1\result\SuccessResult.class
+com\example\todolistapp1\result\ErrorDataResult.class
+com\example\todolistapp1\service\ToDoListService.class
+com\example\todolistapp1\result\Result.class
+com\example\todolistapp1\result\ErrorResult.class
+com\example\todolistapp1\result\SuccessDataResult.class
+com\example\todolistapp1\repository\ToDoListMongoRepository.class
+com\example\todolistapp1\Todolistapp1Application.class
